@@ -66,7 +66,7 @@
             <p>I wanted to call you George.</p>
 
             <p>I am not wringing my hands. I'm drying my nails.</p>
-            <p>Darling, please stop fidgeting with my mirror. That'll be the third one you've
+            <p>Darling, please stop fidgeting with my <objectName type="object">mirror</objectName>. That'll be the third one you've
                broken.</p>
 
             <p> Yes, I've seen those pictures, thank you very much. I know your father was handsomer
