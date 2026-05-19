@@ -131,7 +131,7 @@
 	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/Hamlet_XML.xml?work_annotation_20260519145830274",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-19T18:58:30.274Z",
-	"dcterms:modified": "2026-05-19T18:58:30.274Z",
+	"dcterms:modified": "2026-05-19T20:20:23.212Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/melisstuniewicz9",
 		"@type": [
@@ -162,7 +162,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q41567",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -292,7 +294,7 @@
                </lg>
             </sp>
 
-            <byline><persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" cert="high" type="real">William Shakespeare</persName>, <title>Hamlet</title> (c. 1600, Act III, sc. iv)</byline>
+            <byline><persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" cert="high" type="real">William Shakespeare</persName>, <title key="Hamlet" ref="http://www.wikidata.org/entity/Q41567">Hamlet</title> (c. 1600, Act III, sc. iv)</byline>
          </div>
          <div>
             <p>I always thought it was a mistake, calling you Hamlet. I mean, what kind of name is
