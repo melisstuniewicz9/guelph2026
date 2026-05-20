@@ -48,10 +48,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/Gertrude.xml?work_annotation_20260519145809520",
+	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/Gertrude.xml?work_annotation_20260519145908649",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-05-19T18:58:09.520Z",
-	"dcterms:modified": "2026-05-19T18:59:08.649Z",
+	"dcterms:created": "2026-05-19T18:59:08.649Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -62,7 +61,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/Gertrude.xml?work_annotation_20260519145809520#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/Gertrude.xml?work_annotation_20260519145908649#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/Gertrude.xml",
@@ -76,7 +75,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/Gertrude.xml?work_annotation_20260519145809520#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/Gertrude.xml?work_annotation_20260519145908649#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/byline/title"
 		}
@@ -130,7 +129,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/Gertrude.xml?person_annotation_20260519151610201",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-19T19:16:10.201Z",
-	"dcterms:modified": "2026-05-19T19:16:10.201Z",
+	"dcterms:modified": "2026-05-20T11:42:58.356Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -162,7 +161,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q183492",
+		"@id": "http://viaf.org/viaf/109322990",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -414,7 +413,7 @@
                been so rude to him at the dinner table! </p>
             <p> If I'd known that, I could have put you straight in no time flat. It wasn't
                Claudius, darling. It was me. </p>
-            <byline> <persName key="Margaret Atwood" ref="http://www.wikidata.org/entity/Q183492">Margaret Atwood</persName>, <title key="Atwood, Margaret 1939- | Gertrude talks back" ref="http://viaf.org/viaf/3941152988206712790004" level="a">Gertrude Talks Back</title> (1993) </byline>
+            <byline> <persName key="Atwood, Margaret, 1939-...." ref="http://viaf.org/viaf/109322990">Margaret Atwood</persName>, <title key="Atwood, Margaret 1939- | Gertrude talks back" ref="http://viaf.org/viaf/3941152988206712790004" level="a">Gertrude Talks Back</title> (1993) </byline>
          </div>
          </div>
       </body>
