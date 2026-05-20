@@ -1684,84 +1684,6 @@
 	"id": "undefined?person_annotation_20260520105852551",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T14:58:52.551Z",
-	"dcterms:modified": "2026-05-20T14:58:52.551Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/melisstuniewicz9",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Melissa Tuniewicz"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20260520105852551#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "4.2.0"
-		},
-		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20260520105852551#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[22]/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/19674925",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "4.2.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "undefined?person_annotation_20260520105852551",
-	"type": "oa:Annotation",
-	"dcterms:created": "2026-05-20T14:58:52.551Z",
 	"dcterms:modified": "2026-05-20T18:35:16.139Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/melisstuniewicz9",
@@ -5630,9 +5552,7 @@
 					woman writers have experienced in being taken "altogether
 					seriously" as legitimate artists. <persName key="Ezra Pound" ref="http://www.wikidata.org/entity/Q163366">Ezra Pound</persName>, writing in the second
 					decade of this century, spoke for many male authors and critics
-					before and since: "I distrust the 'female artist.' . . . Not wildly
-					anti-feminist we are yet to be convinced that any woman ever
-					invented anything in the arts." (<persName key="Humphrey Carpenter" ref="http://www.wikidata.org/entity/Q92775">Carpenter</persName>, A Serious Character,
+					before and since: "<q>I distrust the 'female artist.' . . . Not wildly anti-feminist we are yet to be convinced that any woman ever invented anything in the arts</q>." (<persName key="Humphrey Carpenter" ref="http://www.wikidata.org/entity/Q92775">Carpenter</persName>, A Serious Character,
 					<orgName key="Houghton Mifflin Company." ref="http://viaf.org/viaf/159556432" ana="webannotation:http://temp.lincsproject.ca/bfeDfaj7oys">Houghton Mifflin</orgName>, 1988, p. 239.) Cognate with this view of
 					writing as a male preserve has been the image of women writers
 					as lightweight puffballs, neurotic freaks suffering from what <persName key="Edna O'Brien" ref="http://www.wikidata.org/entity/Q178225">Edna
@@ -5691,9 +5611,9 @@
 				</p>
             <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_07.png" n="7"/>
             <p>
-               <persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/XeQQRbatHyL">
-                  <persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="p7gS-53KWSQ" aria-expanded="false" key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/gZh5VlaBmFI">notice the change in . Her early work is </persName>
-               </persName>much more masculine. Her later work has much more
+               
+                  notice the change in . Her early work is 
+               much more masculine. Her later work has much more
 					drapery in it . . .<q> I was going to write a piece at some point about this called "Sense and Sensibility," dividing women writers into these two. I am for the ones who represent sense ... (Pp. 189-190</q>)
 				</p>
             <p>
