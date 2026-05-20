@@ -23,7 +23,7 @@
 					<lb facs="#facs_2_l_3" n="N003"/>praiseworthy series of interviews with writers is a departure
 					<lb facs="#facs_2_l_4" n="N004"/>from the norm. Previous collections have mixed the genders; this
 					<lb facs="#facs_2_l_5" n="N005"/>one is unisexual. That the editors have chosen to bring together,
-					<lb facs="#facs_2_l_6" n="N006"/>within the same covers, fifteen writers as diverse as Dorothy Parker
+					<lb facs="#facs_2_l_6" n="N006"/>within the same covers, fifteen writers as diverse as <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/wKmiDWlXGI4">Dorothy Parker</persName>
 					<lb facs="#facs_2_l_7" n="N007"/>and <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340" ana="webannotation:http://temp.lincsproject.ca/K7pOKr0Hnx3">Nadine Gordimer</persName>, <persName key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/5YwP0OGEDJ1">Marianne Moore</persName> and Rebecca West, Isak
 					<lb facs="#facs_2_l_8" n="N008"/>Dinesen and Lillian Hellman, Mary McCarthy and Katherine
 					<lb facs="#facs_2_l_9" n="N009"/>Anne Porter, over what, in some cases, would doubtless be their
@@ -95,7 +95,7 @@
 				<p>
 					<lb facs="#facs_4_l" n="N001"/>tool, a means towards an end, rather than as a Muse who will
 					<lb facs="#facs_4_l_1" n="N002"/>desert you if you break trust. In the interview which begins this
-					<lb facs="#facs_4_l_2" n="N003"/>collection. Dorothy Parker articles the dilemma:
+					<lb facs="#facs_4_l_2" n="N003"/>collection. <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/TgUUJ0lzCEn">Dorothy Parker</persName> articles the dilemma:
 				</p>
 				<p>
 					<lb facs="#facs_4_l_36" n="N001"/>I'm a feminist, and God knows I'm loyal to my sex, and
@@ -119,7 +119,7 @@
 					<lb facs="#facs_4_l_12" n="N001"/><persName key="Woolf, Virginia, 1882-1941." ref="http://viaf.org/viaf/39385478" ana="webannotation:http://temp.lincsproject.ca/jlx9hczBc1O">Virginia Woolf</persName> may have been right about the androgynous
 					<lb facs="#facs_4_l_13" n="N002"/>nature of the artist, but she was right also about the differences
 					<lb facs="#facs_4_l_14" n="N003"/>in social situation these androgynous artists are certain to en-
-					<lb facs="#facs_4_l_15" n="N004"/>counter. We may agree with Nadine Gordimer when she says,
+					<lb facs="#facs_4_l_15" n="N004"/>counter. We may agree with <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340" ana="webannotation:http://temp.lincsproject.ca/g0BKuAPTw4j">Nadine Gordimer</persName> when she says,
 					<lb facs="#facs_4_l_30" n="N005"/>"By and large, I don't think it matters a damn what sex a writer
 					<lb facs="#facs_4_l_31" n="N006"/>is, so long as the work is that of a real writer" (p. 260), if what
 					<lb facs="#facs_4_l_32" n="N007"/>she means is that it shouldn't matter, in any true assesment of
@@ -334,7 +334,7 @@
 					<lb facs="#facs_9_l_14" n="N005"/>(Pp. 383-384)
 				</p>
 				<p>
-					<lb facs="#facs_9_l" n="N001"/>And from Dorothy Parker, one of the oldest:
+					<lb facs="#facs_9_l" n="N001"/>And from <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/vwx7vdqzD94">Dorothy Parker</persName>, one of the oldest:
 				</p>
 				<p>
 					<lb facs="#facs_9_l_8" n="N001"/>I want so much to write well, though I know I don't . . .
@@ -620,6 +620,273 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wKmiDWlXGI4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wKmiDWlXGI4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:42:15.216Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/ROA00MBGG6p",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ROA00MBGG6p/selector/textPosition/XdeByKbwDji",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 370,
+                "end": 384,
+                "refinedBy": {
+                    "id": "/target/ROA00MBGG6p/selector/textQuote/K1Osu31mCHX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dorothy Parker",
+                    "prefix": " That the editors have chosen to bring together,\n\t\t\t\t\twithin the same covers, fifteen writers as diverse as",
+                    "suffix": "\t\t\t\t\tand Nadine Gordimer, Marianne Moore and Rebecca West, Isak\n\t\t\t\t\tDinesen and Lillian Hellman, Mary McCarthy and Katherine\n\t\t\t\t\tAnne Porter, over what, in some cases, would doubtless be their\n\t\t\t\t\tdead bodies, merely because they share a double-X chronosome,\n\t\t\t\t\tis not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/ROA00MBGG6p/selector/css/LToTUU2mSJR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wKmiDWlXGI4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/7395211",
+        "type": "crm:E21_Person",
+        "label": "Parker, Dorothy, 1893-1967.",
+        "description": "Parker, Dorothy"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TgUUJ0lzCEn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TgUUJ0lzCEn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:42:15.218Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/Uix4PDxHwWc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Uix4PDxHwWc/selector/textPosition/2kkfP9LSLid",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4222,
+                "end": 4236,
+                "refinedBy": {
+                    "id": "/target/Uix4PDxHwWc/selector/textQuote/KKO6ZkgHNxR",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dorothy Parker",
+                    "prefix": "",
+                    "suffix": "articles the dilemma:\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tI'm a feminist, and God knows I'm loyal to my sex, and\n\t\t\t\t\tyou must remember that from my very early days, when\n\t\t\t\t\tthis city was scarcely safe from buffaloes, I was in the struggle\n\t\t\t\t\tfor equal rights for women"
+                }
+            },
+            {
+                "id": "/target/Uix4PDxHwWc/selector/css/etGwcMf7hx1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TgUUJ0lzCEn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/7395211",
+        "type": "crm:E21_Person",
+        "label": "Parker, Dorothy, 1893-1967.",
+        "description": "Parker, Dorothy"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vwx7vdqzD94">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vwx7vdqzD94",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:42:15.219Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/nKS3pBVtIoQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/nKS3pBVtIoQ/selector/textPosition/V89qGXKa075",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15789,
+                "end": 15803,
+                "refinedBy": {
+                    "id": "/target/nKS3pBVtIoQ/selector/textQuote/mHUUzgw7o7B",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dorothy Parker",
+                    "prefix": " 383-384)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tAnd from",
+                    "suffix": " one of the oldest:\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tI want so much to write well, though I know I don't "
+                }
+            },
+            {
+                "id": "/target/nKS3pBVtIoQ/selector/css/JYzGJ9PR2ox",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vwx7vdqzD94]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/7395211",
+        "type": "crm:E21_Person",
+        "label": "Parker, Dorothy, 1893-1967.",
+        "description": "Parker, Dorothy"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/K7pOKr0Hnx3">
 <![CDATA[{
     "@context": [
@@ -693,6 +960,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/K7pOKr0Hnx3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/86692340",
+        "type": "crm:E21_Person",
+        "label": "Gordimer, Nadine, 1923-2014.",
+        "description": "Gordimer, Nadine"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/g0BKuAPTw4j">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/g0BKuAPTw4j",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:41:51.707Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/m5IlLbgsyDV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/m5IlLbgsyDV/selector/textPosition/GBS9gQxOEO0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5393,
+                "end": 5408,
+                "refinedBy": {
+                    "id": "/target/m5IlLbgsyDV/selector/textQuote/0r0wjR9Fkc3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nadine Gordimer",
+                    "prefix": " We may agree with",
+                    "suffix": "when she says,\n\t\t\t\t\t\"By and large, I don't think it matters a damn what sex a writer\n\t\t\t\t\tis, so long as the work is that of a real writer\" (p"
+                }
+            },
+            {
+                "id": "/target/m5IlLbgsyDV/selector/css/MDosM61cODM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/g0BKuAPTw4j]"
             }
         ]
     },
