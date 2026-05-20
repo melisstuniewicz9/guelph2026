@@ -116,7 +116,7 @@
 					<lb facs="#facs_4_l_9" n="N007"/>them jumpy.
 				</p>
 				<p>
-					<lb facs="#facs_4_l_12" n="N001"/>Virginia Woolf may have been right about the androgynous
+					<lb facs="#facs_4_l_12" n="N001"/><persName key="Woolf, Virginia, 1882-1941." ref="http://viaf.org/viaf/39385478" ana="webannotation:http://temp.lincsproject.ca/jlx9hczBc1O">Virginia Woolf</persName> may have been right about the androgynous
 					<lb facs="#facs_4_l_13" n="N002"/>nature of the artist, but she was right also about the differences
 					<lb facs="#facs_4_l_14" n="N003"/>in social situation these androgynous artists are certain to en-
 					<lb facs="#facs_4_l_15" n="N004"/>counter. We may agree with Nadine Gordimer when she says,
@@ -214,7 +214,7 @@
 				<p>
 					<lb facs="#facs_6_l_22" n="N001"/>MCCARTHY: Some women writers make it. I mean, there's
 					<lb facs="#facs_6_l_23" n="N002"/>a certain kind of woman writer who's a capital W, capital
-					<lb facs="#facs_6_l_24" n="N003"/>W. Virginia Woolf certainly was one, and Katherine Mans-
+					<lb facs="#facs_6_l_24" n="N003"/>W. <persName key="Woolf, Virginia, 1882-1941." ref="http://viaf.org/viaf/39385478" ana="webannotation:http://temp.lincsproject.ca/8DIPFgnfYRm">Virginia Woolf</persName> certainly was one, and Katherine Mans-
 					<lb facs="#facs_6_l_25" n="N004"/>field was one, and Elizabeth Bowen is one. Katherine Anne
 					<lb facs="#facs_6_l_26" n="N005"/>Porter? Don't think she really is—I mean, her writing is
 					<lb facs="#facs_6_l_32" n="N006"/>certainly very feminine, but I would say that there wasn't
@@ -302,7 +302,7 @@
 					<lb facs="#facs_8_l_20" n="N002"/>made. It is limited in scope by the writers actually interviewed
 					<lb facs="#facs_8_l_21" n="N003"/>to date by The Paris Review. Thus, although there are writers
 					<lb facs="#facs_8_l_22" n="N004"/>from <placeName key="United States" ref="http://viaf.org/viaf/130168302" ana="webannotation:http://temp.lincsproject.ca/MFfoodCozh7">the United States</placeName>, <placeName key="Ireland." ref="http://viaf.org/viaf/158208597" ana="webannotation:http://temp.lincsproject.ca/KV8X4ri5OyP">Ireland</placeName>, England, Denmark, and <placeName key="South Africa" ref="http://viaf.org/viaf/159069376" ana="webannotation:http://temp.lincsproject.ca/yd8mwMsWGYo">South</placeName>
-					<lb facs="#facs_8_l_23" n="N005"/>Africa, there are none here from, for instance, India or Australia
+					<lb facs="#facs_8_l_23" n="N005"/>Africa, there are none here from, for instance, <placeName key="Índia." ref="http://viaf.org/viaf/135375457" ana="webannotation:http://temp.lincsproject.ca/0gcTmiLByxw">India</placeName> or Australia
 					<lb facs="#facs_8_l_24" n="N006"/>or Canada or Latin America: no Alice Munro, no Anita Desai,
 					<lb facs="#facs_8_l_25" n="N007"/>no Isabel Allende. As this assemblage is unisexual, so is it uni-
 					<lb facs="#facs_8_l_26" n="N008"/>colored: thus far no Toni Morrison, no Alice Walker, no Louise
@@ -612,6 +612,273 @@
         "type": "crm:E53_Place",
         "label": "Índia.",
         "description": "Indien"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0gcTmiLByxw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0gcTmiLByxw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:34:31.744Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/TnGw0Dp1HEL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TnGw0Dp1HEL/selector/textPosition/6aksN43y6o3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14175,
+                "end": 14180,
+                "refinedBy": {
+                    "id": "/target/TnGw0Dp1HEL/selector/textQuote/41KhYMATWZF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "India",
+                    "prefix": " Thus, although there are writers\n\t\t\t\t\tfrom the United States, Ireland, England, Denmark, and South\n\t\t\t\t\tAfrica, there are none here from, for instance,",
+                    "suffix": "or Australia\n\t\t\t\t\tor Canada or Latin America: no Alice Munro, no Anita Desai,\n\t\t\t\t\tno Isabel Allende"
+                }
+            },
+            {
+                "id": "/target/TnGw0Dp1HEL/selector/css/63Zt0IuGKkI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0gcTmiLByxw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/135375457",
+        "type": "crm:E53_Place",
+        "label": "Índia.",
+        "description": "Indien"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jlx9hczBc1O">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/jlx9hczBc1O",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:39:12.987Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/EmJvIjQ1KOw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EmJvIjQ1KOw/selector/textPosition/ZjXwehkvBpc",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5162,
+                "end": 5176,
+                "refinedBy": {
+                    "id": "/target/EmJvIjQ1KOw/selector/textQuote/LeSBlkub6pi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Virginia Woolf",
+                    "prefix": "\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t",
+                    "suffix": "may have been right about the androgynous\n\t\t\t\t\tnature of the artist, but she was right also about the differences\n\t\t\t\t\tin social situation these androgynous artists are certain to en-\n\t\t\t\t\tcounter"
+                }
+            },
+            {
+                "id": "/target/EmJvIjQ1KOw/selector/css/dhFrmnvvzBC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/jlx9hczBc1O]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39385478",
+        "type": "crm:E21_Person",
+        "label": "Woolf, Virginia, 1882-1941.",
+        "description": "Woolf, Virginia"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8DIPFgnfYRm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8DIPFgnfYRm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:39:13.201Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/bOvRWGghNm8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bOvRWGghNm8/selector/textPosition/P1z7lktBel6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9954,
+                "end": 9968,
+                "refinedBy": {
+                    "id": "/target/bOvRWGghNm8/selector/textQuote/XCHX3sXnzfr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Virginia Woolf",
+                    "prefix": "",
+                    "suffix": "certainly was one, and Katherine Mans-\n\t\t\t\t\tfield was one, and Elizabeth Bowen is one"
+                }
+            },
+            {
+                "id": "/target/bOvRWGghNm8/selector/css/kVfjRh3zViB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8DIPFgnfYRm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39385478",
+        "type": "crm:E21_Person",
+        "label": "Woolf, Virginia, 1882-1941.",
+        "description": "Woolf, Virginia"
     },
     "P2_has_type": [
         "oa:identifying"
