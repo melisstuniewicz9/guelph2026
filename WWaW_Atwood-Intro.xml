@@ -25,7 +25,7 @@
 					<lb facs="#facs_2_l_5" n="N005"/>one is unisexual. That the editors have chosen to bring together,
 					<lb facs="#facs_2_l_6" n="N006"/>within the same covers, fifteen writers as diverse as <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/wKmiDWlXGI4">Dorothy Parker</persName>
 					<lb facs="#facs_2_l_7" n="N007"/>and <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340" ana="webannotation:http://temp.lincsproject.ca/K7pOKr0Hnx3">Nadine Gordimer</persName>, <persName key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/5YwP0OGEDJ1">Marianne Moore</persName> and <persName key="West, Rebecca, 1892-1983" ref="http://viaf.org/viaf/108321467" ana="webannotation:http://temp.lincsproject.ca/zI57RAi4Adm">Rebecca West</persName>, Isak
-					<lb facs="#facs_2_l_8" n="N008"/>Dinesen and Lillian Hellman, Mary McCarthy and Katherine
+					<lb facs="#facs_2_l_8" n="N008"/><persName key="Dinesen, Isak, 1885-1962" ref="http://viaf.org/viaf/121643918" ana="webannotation:http://temp.lincsproject.ca/y9nMJVclo5H">Dinesen</persName> and Lillian Hellman, Mary McCarthy and Katherine
 					<lb facs="#facs_2_l_9" n="N009"/>Anne Porter, over what, in some cases, would doubtless be their
 					<lb facs="#facs_2_l_10" n="N010"/>dead bodies, merely because they share a double-X chronosome,
 					<lb facs="#facs_2_l_11" n="N011"/>is not due to a sudden mental aberration. Rather it has been the
@@ -1146,6 +1146,95 @@
         "type": "crm:E21_Person",
         "label": "West, Rebecca, 1892-1983",
         "description": "West, Rebbeca, pseud."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/y9nMJVclo5H">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/y9nMJVclo5H",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:47:25.606Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/ocGnm93syCa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ocGnm93syCa/selector/textPosition/ppDZVp048a6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 454,
+                "end": 461,
+                "refinedBy": {
+                    "id": "/target/ocGnm93syCa/selector/textQuote/wb2HmHg9DFE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dinesen",
+                    "prefix": " That the editors have chosen to bring together,\n\t\t\t\t\twithin the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand Nadine Gordimer, Marianne Moore and Rebecca West, Isak\n\t\t\t\t",
+                    "suffix": "and Lillian Hellman, Mary McCarthy and Katherine\n\t\t\t\t\tAnne Porter, over what, in some cases, would doubtless be their\n\t\t\t\t\tdead bodies, merely because they share a double-X chronosome,\n\t\t\t\t\tis not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/ocGnm93syCa/selector/css/r3QZG1ukTGf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/y9nMJVclo5H]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/121643918",
+        "type": "crm:E21_Person",
+        "label": "Dinesen, Isak, 1885-1962",
+        "description": "Dinesen, Isak"
     },
     "P2_has_type": [
         "oa:identifying"
