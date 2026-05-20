@@ -62,7 +62,7 @@
 					<lb facs="#facs_3_l_49" n="N008"/>stitution bent, like foot-binding, on the deformation and hobbling
 					<lb facs="#facs_3_l_50" n="N009"/>of women? I have had it suggested to me, in all seriousness, that
 					<lb facs="#facs_3_l_51" n="N010"/>women ought not to write at all, since to do so is to dip one's
-					<lb facs="#facs_3_l_52" n="N011"/>hand, like Shakespeares dyer, into a medium both sullied and
+					<lb facs="#facs_3_l_52" n="N011"/>hand, like <persName key="Shakespeare, William" ref="https://nerve.lincsproject.ca/" ana="webannotation:http://temp.lincsproject.ca/uMtyQQxqsBd">Shakespeares</persName> dyer, into a medium both sullied and
 					<lb facs="#facs_3_l_53" n="N012"/>sullying. (This suggestion was not made telepathically, but in
 					<lb facs="#facs_3_l_54" n="N013"/>spoken sentences; since, for polemicists as for writers themselves,
 					<lb facs="#facs_3_l_55" n="N014"/>the alternative to language is silence.)
@@ -1146,6 +1146,95 @@
         "type": "crm:E21_Person",
         "label": "West, Rebecca, 1892-1983",
         "description": "West, Rebbeca, pseud."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uMtyQQxqsBd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uMtyQQxqsBd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:45:12.273Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/ih0o92MqJlm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ih0o92MqJlm/selector/textPosition/XCEJ2NJAxY8",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2447,
+                "end": 2459,
+                "refinedBy": {
+                    "id": "/target/ih0o92MqJlm/selector/textQuote/0eEpwZl9nZb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Shakespeares",
+                    "prefix": " Is there a distinct female écriture? Does the mother-tongue\n\t\t\t\t\treally belong to mothers, or is it yet one more male-shaped in-\n\t\t\t\t\tstitution bent, like foot-binding, on the deformation and hobbling\n\t\t\t\t\tof women? I have had it suggested to me, in all seriousness, that\n\t\t\t\t\twomen ought not to write at all, since to do so is to dip one's\n\t\t\t\t\thand, like",
+                    "suffix": "dyer, into a medium both sullied and\n\t\t\t\t\tsullying"
+                }
+            },
+            {
+                "id": "/target/ih0o92MqJlm/selector/css/Gb86WjJSMej",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uMtyQQxqsBd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://nerve.lincsproject.ca/",
+        "label": "Shakespeare, William",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
