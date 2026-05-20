@@ -25,7 +25,7 @@
 					<lb facs="#facs_2_l_5" n="N005"/>one is unisexual. That the editors have chosen to bring together,
 					<lb facs="#facs_2_l_6" n="N006"/>within the same covers, fifteen writers as diverse as <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/wKmiDWlXGI4">Dorothy Parker</persName>
 					<lb facs="#facs_2_l_7" n="N007"/>and <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340" ana="webannotation:http://temp.lincsproject.ca/K7pOKr0Hnx3">Nadine Gordimer</persName>, <persName key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/5YwP0OGEDJ1">Marianne Moore</persName> and <persName key="West, Rebecca, 1892-1983" ref="http://viaf.org/viaf/108321467" ana="webannotation:http://temp.lincsproject.ca/zI57RAi4Adm">Rebecca West</persName>, <persName key="Dinesen, Isak, 1885-1962" ref="http://viaf.org/viaf/121643918" ana="webannotation:http://temp.lincsproject.ca/ujfrbUmOlGc">Isak
-					</persName><lb facs="#facs_2_l_8" n="N008"/><persName key="Dinesen, Isak, 1885-1962" ref="http://viaf.org/viaf/121643918" ana="webannotation:http://temp.lincsproject.ca/y9nMJVclo5H">Dinesen</persName> and <persName key="Hellman, Lillian, 1905-1984." ref="http://viaf.org/viaf/101362826" ana="webannotation:http://temp.lincsproject.ca/07hhMrdaB86">Lillian Hellman</persName>, Mary McCarthy and Katherine
+					</persName><lb facs="#facs_2_l_8" n="N008"/><persName key="Dinesen, Isak, 1885-1962" ref="http://viaf.org/viaf/121643918" ana="webannotation:http://temp.lincsproject.ca/y9nMJVclo5H">Dinesen</persName> and <persName key="Hellman, Lillian, 1905-1984." ref="http://viaf.org/viaf/101362826" ana="webannotation:http://temp.lincsproject.ca/07hhMrdaB86">Lillian Hellman</persName>, <persName key="McCarthy, Mary, 1912-1989." ref="http://viaf.org/viaf/105465037" ana="webannotation:http://temp.lincsproject.ca/IA7yqf4sFwm">Mary McCarthy</persName> and Katherine
 					<lb facs="#facs_2_l_9" n="N009"/>Anne Porter, over what, in some cases, would doubtless be their
 					<lb facs="#facs_2_l_10" n="N010"/>dead bodies, merely because they share a double-X chronosome,
 					<lb facs="#facs_2_l_11" n="N011"/>is not due to a sudden mental aberration. Rather it has been the
@@ -202,7 +202,7 @@
 				<p>
 					<lb facs="#facs_6_l_27" n="N001"/>Katherine Anne Porter’s reply—“I think that’S very true and
 					<lb facs="#facs_6_l_28" n="N002"/>very right"—is by no means the only one possible. Some, such
-					<lb facs="#facs_6_l_29" n="N003"/>as Mary McCarthy, are clearly impatient with the question itself.
+					<lb facs="#facs_6_l_29" n="N003"/>as <persName key="McCarthy, Mary, 1912-1989." ref="http://viaf.org/viaf/105465037" ana="webannotation:http://temp.lincsproject.ca/HZbDIDA7mnN">Mary McCarthy</persName>, are clearly impatient with the question itself.
 					<lb facs="#facs_6_l_30" n="N004"/>McCarthy accepts some version of the "masculine" versus the
 					<lb facs="#facs_6_l_31" n="N005"/>"feminine" sensibility, but assigns herself firmly with the former.
 				</p>
@@ -1413,6 +1413,184 @@
         "type": "crm:E21_Person",
         "label": "Hellman, Lillian, 1905-1984.",
         "description": "Hellman, Lillian"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IA7yqf4sFwm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IA7yqf4sFwm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:48:05.086Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/DKhZGNulqiw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DKhZGNulqiw/selector/textPosition/hLxf2oAjtGm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 483,
+                "end": 496,
+                "refinedBy": {
+                    "id": "/target/DKhZGNulqiw/selector/textQuote/e6Ht890UoKD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary McCarthy",
+                    "prefix": " That the editors have chosen to bring together,\n\t\t\t\t\twithin the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand Nadine Gordimer, Marianne Moore and Rebecca West, Isak\n\t\t\t\t\tDinesen and Lillian Hellman,",
+                    "suffix": "and Katherine\n\t\t\t\t\tAnne Porter, over what, in some cases, would doubtless be their\n\t\t\t\t\tdead bodies, merely because they share a double-X chronosome,\n\t\t\t\t\tis not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/DKhZGNulqiw/selector/css/svdsuVg7uMF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IA7yqf4sFwm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105465037",
+        "type": "crm:E21_Person",
+        "label": "McCarthy, Mary, 1912-1989.",
+        "description": "McCarthy, Mary"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HZbDIDA7mnN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HZbDIDA7mnN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:48:05.491Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/7iu83FFUHOE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7iu83FFUHOE/selector/textPosition/XuYsyTgemRS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9475,
+                "end": 9488,
+                "refinedBy": {
+                    "id": "/target/7iu83FFUHOE/selector/textQuote/LUtVqIuVovH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary McCarthy",
+                    "prefix": " Some, such\n\t\t\t\t\tas",
+                    "suffix": " are clearly impatient with the question itself"
+                }
+            },
+            {
+                "id": "/target/7iu83FFUHOE/selector/css/gOTaw3dMATC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HZbDIDA7mnN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105465037",
+        "type": "crm:E21_Person",
+        "label": "McCarthy, Mary, 1912-1989.",
+        "description": "McCarthy, Mary"
     },
     "P2_has_type": [
         "oa:identifying"
