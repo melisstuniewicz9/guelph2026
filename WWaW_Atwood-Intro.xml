@@ -215,10 +215,10 @@
 					<lb facs="#facs_6_l_22" n="N001"/>MCCARTHY: Some women writers make it. I mean, there's
 					<lb facs="#facs_6_l_23" n="N002"/>a certain kind of woman writer who's a capital W, capital
 					<lb facs="#facs_6_l_24" n="N003"/>W. <persName key="Woolf, Virginia, 1882-1941." ref="http://viaf.org/viaf/39385478" ana="webannotation:http://temp.lincsproject.ca/8DIPFgnfYRm">Virginia Woolf</persName> certainly was one, and Katherine Mans-
-					<lb facs="#facs_6_l_25" n="N004"/>field was one, and Elizabeth Bowen is one. Katherine Anne
+					<lb facs="#facs_6_l_25" n="N004"/>field was one, and  is one. Katherine Anne
 					<lb facs="#facs_6_l_26" n="N005"/>Porter? Don't think she really is—I mean, her writing is
 					<lb facs="#facs_6_l_32" n="N006"/>certainly very feminine, but I would say that there wasn't
-					<lb facs="#facs_6_l_33" n="N007"/>this “WW” business in Katherine Anne Porter. Who else?
+					<lb facs="#facs_6_l_33" n="N007"/>this “WW” business in <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/AQ2tQ0SmSHM">Katherine Anne Porter</persName>. Who else?
 					<lb facs="#facs_6_l_41" n="N008"/>There's Eudora Welty, who's certainly not a "Woman
 					<lb facs="#facs_6_l_42" n="N009"/>Winter," though she's become one lately.
 				</p>
@@ -231,8 +231,8 @@
 				</p>
 				<pb n="7"/>
 				<p>
-					<lb facs="#facs_7_l" n="N001"/>notice the change in Elizabeth Bowen. Her early work is
-					<lb facs="#facs_7_l_1" n="N002"/>much more masculine. Her later work has much more
+					<lb facs="#facs_7_l" n="N001"/><persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/gZh5VlaBmFI">notice the change in Elizabeth Bowen. Her early work is
+					<lb facs="#facs_7_l_1" n="N002"/></persName>much more masculine. Her later work has much more
 					<lb facs="#facs_7_l_2" n="N003"/>drapery in it . . . I was going to write a piece at some point
 					<lb facs="#facs_7_l_3" n="N004"/>about this called "Sense and Sensibility," dividing women
 					<lb facs="#facs_7_l_4" n="N005"/>writers into these two. I am for the ones who represent
@@ -1688,6 +1688,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AQ2tQ0SmSHM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AQ2tQ0SmSHM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:50:12.859Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/D8sTQAMQgdT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/D8sTQAMQgdT/selector/textPosition/mthQdbUAiQe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10224,
+                "end": 10245,
+                "refinedBy": {
+                    "id": "/target/D8sTQAMQgdT/selector/textQuote/9NYsqHfC76U",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Katherine Anne Porter",
+                    "prefix": " Katherine Anne\n\t\t\t\t\tPorter? Don't think she really is—I mean, her writing is\n\t\t\t\t\tcertainly very feminine, but I would say that there wasn't\n\t\t\t\t\tthis “WW” business in",
+                    "suffix": " Who else?\n\t\t\t\t\tThere's Eudora Welty, who's certainly not a \"Woman\n\t\t\t\t\tWinter,\" though she's become one lately"
+                }
+            },
+            {
+                "id": "/target/D8sTQAMQgdT/selector/css/yYjZMk8Rh6R",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AQ2tQ0SmSHM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/56620604",
+        "type": "crm:E21_Person",
+        "label": "Porter, Katherine Anne, 1890-1980.",
+        "description": "Porter, Katherine Anne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nlx6qn0BIeV">
 <![CDATA[{
     "@context": [
@@ -2481,6 +2570,95 @@
         "type": "crm:E21_Person",
         "label": "Didion, Joan, 1934-2021.",
         "description": "Didion, Joan"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gZh5VlaBmFI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gZh5VlaBmFI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:50:54.661Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/357OOvQO50v",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/357OOvQO50v/selector/textPosition/UMbhEoxU8EB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10032,
+                "end": 10047,
+                "refinedBy": {
+                    "id": "/target/357OOvQO50v/selector/textQuote/foDnLeOVcCb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Elizabeth Bowen",
+                    "prefix": " Virginia Woolf certainly was one, and Katherine Mans-\n\t\t\t\t\tfield was one, and",
+                    "suffix": "is one"
+                }
+            },
+            {
+                "id": "/target/357OOvQO50v/selector/css/YNw77Tutb1A",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gZh5VlaBmFI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/19674925",
+        "type": "crm:E21_Person",
+        "label": "Bowen, Elizabeth, 1899-1973.",
+        "description": "Bowen, Elizabeth"
     },
     "P2_has_type": [
         "oa:identifying"
