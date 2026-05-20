@@ -181,7 +181,7 @@
 				<pb n="6"/>
 				<p>
 					<lb facs="#facs_6_l" n="N001"/>honorary men. Femininity and excellence, it seemed, were mu-
-					<lb facs="#facs_6_l_1" n="N002"/>tually exclusive. Thus Katherine Anne Porter:
+					<lb facs="#facs_6_l_1" n="N002"/>tually exclusive. Thus <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/QRH7qcQhL2l">Katherine Anne Porter</persName>:
 				</p>
 				<p>
 					<lb facs="#facs_6_l_34" n="N001"/>If there is such a thing as a man's mind and a woman's
@@ -1591,6 +1591,95 @@
         "type": "crm:E21_Person",
         "label": "McCarthy, Mary, 1912-1989.",
         "description": "McCarthy, Mary"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QRH7qcQhL2l">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QRH7qcQhL2l",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:50:12.658Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/vOy7L719yRg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vOy7L719yRg/selector/textPosition/hiF13iXqXkd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8562,
+                "end": 8583,
+                "refinedBy": {
+                    "id": "/target/vOy7L719yRg/selector/textQuote/vPvKuYkHQTi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Katherine Anne Porter",
+                    "prefix": " Thus",
+                    "suffix": "\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tIf there is such a thing as a man's mind and a woman's\n\t\t\t\t\tmind—and I'm sure there is—it isn't what most critics mean\n\t\t\t\t\twhen they talk about the two"
+                }
+            },
+            {
+                "id": "/target/vOy7L719yRg/selector/css/9oimxj67ojF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QRH7qcQhL2l]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/56620604",
+        "type": "crm:E21_Person",
+        "label": "Porter, Katherine Anne, 1890-1980.",
+        "description": "Porter, Katherine Anne"
     },
     "P2_has_type": [
         "oa:identifying"
