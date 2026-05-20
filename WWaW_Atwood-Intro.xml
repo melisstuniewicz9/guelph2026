@@ -136,7 +136,7 @@
 				</p>
 				<pb n="5"/>
 				<p>
-					<lb facs="#facs_5_l" n="N001"/>Joan Didion is asked the same question in its negative form—
+					<lb facs="#facs_5_l" n="N001"/><persName key="Didion, Joan, 1934-2021." ref="http://viaf.org/viaf/100261335" ana="webannotation:http://temp.lincsproject.ca/YBxM4a44ViP">Joan Didion</persName> is asked the same question in its negative form—
 					<lb facs="#facs_5_l_1" n="N002"/>"disadvantages" instead of "advantages"—and also focuses on so-
 					<lb facs="#facs_5_l_2" n="N003"/>cial differences, social acceptance and role:
 				</p>
@@ -324,7 +324,7 @@
 					<lb facs="#facs_9_l_3" n="N003"/>gets said about the suffering and panic and horror of being a
 					<lb facs="#facs_9_l_4" n="N004"/>writer, the final impression left by these remarkable voices is one
 					<lb facs="#facs_9_l_5" n="N005"/>of thankfulness, of humility in the face of what has been given.
-					<lb facs="#facs_9_l_6" n="N006"/>From Joyce Carol Oates, one of the youngest writers in this group:
+					<lb facs="#facs_9_l_6" n="N006"/>From <persName key="Oates, Joyce Carol, 1938-...." ref="http://viaf.org/viaf/108187427" ana="webannotation:http://temp.lincsproject.ca/HJDTpVccWdO">Joyce Carol Oates</persName>, one of the youngest writers in this group:
 				</p>
 				<p>
 					<lb facs="#facs_9_l_10" n="N001"/>I take seriously Flaubert's statement must love
@@ -2214,6 +2214,184 @@
         "type": "crm:E21_Person",
         "label": "Oates, Joyce Carol, 1938-....",
         "description": "Oates, Joyce Carol"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HJDTpVccWdO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HJDTpVccWdO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:49:35.216Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/MzyKlFIezYX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MzyKlFIezYX/selector/textPosition/mD3H5v4kkj6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15447,
+                "end": 15464,
+                "refinedBy": {
+                    "id": "/target/MzyKlFIezYX/selector/textQuote/scV2pMnFyx7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Joyce Carol Oates",
+                    "prefix": "\n\t\t\t\t\tFrom",
+                    "suffix": " one of the youngest writers in this group:\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tI take seriously Flaubert's statement must love\n\t\t\t\t\tone another in our art as the mystics love another in\n\t\t\t\t\tGod"
+                }
+            },
+            {
+                "id": "/target/MzyKlFIezYX/selector/css/6DNYsL2xV9K",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HJDTpVccWdO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/108187427",
+        "type": "crm:E21_Person",
+        "label": "Oates, Joyce Carol, 1938-....",
+        "description": "Oates, Joyce Carol"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YBxM4a44ViP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YBxM4a44ViP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:49:43.053Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/8RR8dn0MQLc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8RR8dn0MQLc/selector/textPosition/FUC6EHIqkCy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6179,
+                "end": 6190,
+                "refinedBy": {
+                    "id": "/target/8RR8dn0MQLc/selector/textQuote/lV1m8NkeY1l",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Joan Didion",
+                    "prefix": " 382)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t",
+                    "suffix": "is asked the same question in its negative form—\n\t\t\t\t\t\"disadvantages\" instead of \"advantages\"—and also focuses on so-\n\t\t\t\t\tcial differences, social acceptance and role:\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tWhen I was starting to write—in the late fifties, early\n\t\t\t\t\tsixties—there was a kind of social tradition in which male\n\t\t\t\t\tnovelists could operate"
+                }
+            },
+            {
+                "id": "/target/8RR8dn0MQLc/selector/css/a6rVAqJ7azC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YBxM4a44ViP]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/100261335",
+        "type": "crm:E21_Person",
+        "label": "Didion, Joan, 1934-2021.",
+        "description": "Didion, Joan"
     },
     "P2_has_type": [
         "oa:identifying"
