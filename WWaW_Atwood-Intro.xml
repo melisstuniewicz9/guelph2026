@@ -78,7 +78,7 @@
 					<lb facs="#facs_3_l_18" n="N008"/>were male, with a woman dotted here and there for decorative
 					<lb facs="#facs_3_l_19" n="N009"/>effect, like parsley. Jan Morris said that she was in the process of
 					<lb facs="#facs_3_l_20" n="N010"/>transcending gender and was aiming at becoming a horse, to
-					<lb facs="#facs_3_l_21" n="N011"/>which Nayantara Sahgal replied that she hoped it was an English
+					<lb facs="#facs_3_l_21" n="N011"/>which Nayantara Sahgal replied that she hoped it was an <rs key="English (culture or style)" ref="http://vocab.getty.edu/aat/300111178" ana="webannotation:http://temp.lincsproject.ca/xJuAWlxQ26h">English</rs>
 					<lb facs="#facs_3_l_22" n="N012"/>horse, since in some other, poorer countries, horses were not
 					<lb facs="#facs_3_l_23" n="N013"/>treated very well. Which underlined, for all of us, that there are
 					<lb facs="#facs_3_l_24" n="N014"/>categories other than male and female worth considering.
@@ -231,8 +231,8 @@
 				</p>
 				<pb n="7"/>
 				<p>
-					<lb facs="#facs_7_l" n="N001"/><persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/gZh5VlaBmFI">notice the change in Elizabeth Bowen. Her early work is
-					<lb facs="#facs_7_l_1" n="N002"/></persName>much more masculine. Her later work has much more
+					<lb facs="#facs_7_l" n="N001"/><persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/XeQQRbatHyL"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="p7gS-53KWSQ" aria-expanded="false" key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/gZh5VlaBmFI">notice the change in . Her early work is
+					<lb facs="#facs_7_l_1" n="N002"/></persName></persName>much more masculine. Her later work has much more
 					<lb facs="#facs_7_l_2" n="N003"/>drapery in it . . . I was going to write a piece at some point
 					<lb facs="#facs_7_l_3" n="N004"/>about this called "Sense and Sensibility," dividing women
 					<lb facs="#facs_7_l_4" n="N005"/>writers into these two. I am for the ones who represent
@@ -2133,6 +2133,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xJuAWlxQ26h">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xJuAWlxQ26h",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:tagging",
+    "created": "2026-05-20T14:51:56.447Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/myNZadlRbg2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/myNZadlRbg2/selector/textPosition/To57kYUHwe4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3425,
+                "end": 3432,
+                "refinedBy": {
+                    "id": "/target/myNZadlRbg2/selector/textQuote/GRZHhrJpN6w",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "English",
+                    "prefix": " Jan Morris said that she was in the process of\n\t\t\t\t\ttranscending gender and was aiming at becoming a horse, to\n\t\t\t\t\twhich Nayantara Sahgal replied that she hoped it was an",
+                    "suffix": "\t\t\t\t\thorse, since in some other, poorer countries, horses were not\n\t\t\t\t\ttreated very well"
+                }
+            },
+            {
+                "id": "/target/myNZadlRbg2/selector/css/eSwjtBi89fb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xJuAWlxQ26h]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://vocab.getty.edu/aat/300111178",
+        "type": "crm:E28_Conceptual_Object",
+        "label": "English (culture or style)",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:tagging"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jlx9hczBc1O">
 <![CDATA[{
     "@context": [
@@ -2651,6 +2740,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/gZh5VlaBmFI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/19674925",
+        "type": "crm:E21_Person",
+        "label": "Bowen, Elizabeth, 1899-1973.",
+        "description": "Bowen, Elizabeth"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XeQQRbatHyL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XeQQRbatHyL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:50:54.854Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/Wv7yawf81CX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Wv7yawf81CX/selector/textPosition/SPxcYoMoe4s",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10548,
+                "end": 10563,
+                "refinedBy": {
+                    "id": "/target/Wv7yawf81CX/selector/textQuote/yPJML5wq40e",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Elizabeth Bowen",
+                    "prefix": " You\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tnotice the change in",
+                    "suffix": " Her early work is\n\t\t\t\t\tmuch more masculine"
+                }
+            },
+            {
+                "id": "/target/Wv7yawf81CX/selector/css/l3MTTqXgUjB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XeQQRbatHyL]"
             }
         ]
     },
