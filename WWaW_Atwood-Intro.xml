@@ -172,7 +172,7 @@
 					<lb facs="#facs_5_l_21" n="N005"/>before and since: "I distrust the 'female artist.' . . . Not wildly
 					<lb facs="#facs_5_l_14" n="N006"/>anti-feminist we are yet to be convinced that any woman ever
 					<lb facs="#facs_5_l_15" n="N007"/>invented anything in the arts." (Carpenter, A Serious Character,
-					<lb facs="#facs_5_l_16" n="N008"/>Houghton Mifflin, 1988, p. 239.) Cognate with this view of
+					<lb facs="#facs_5_l_16" n="N008"/><orgName key="Houghton Mifflin Company." ref="http://viaf.org/viaf/159556432" ana="webannotation:http://temp.lincsproject.ca/bfeDfaj7oys">Houghton Mifflin</orgName>, 1988, p. 239.) Cognate with this view of
 					<lb facs="#facs_5_l_17" n="N009"/>writing as a male preserve has been the image of women writers
 					<lb facs="#facs_5_l_18" n="N010"/>as lightweight puffballs, neurotic freaks suffering from what Edna
 					<lb facs="#facs_5_l_19" n="N011"/>O'Brien calls "a double dose of masochism: the masochisim of
@@ -2837,6 +2837,95 @@
         "type": "crm:E21_Person",
         "label": "Didion, Joan, 1934-2021.",
         "description": "Didion, Joan"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bfeDfaj7oys">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bfeDfaj7oys",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:53:35.039Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/aNuOHw8BAZ0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aNuOHw8BAZ0/selector/textPosition/0WSOTOlqu1X",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8116,
+                "end": 8132,
+                "refinedBy": {
+                    "id": "/target/aNuOHw8BAZ0/selector/textQuote/aobKEe3IFSX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Houghton Mifflin",
+                    "prefix": "\" (Carpenter, A Serious Character,\n\t\t\t\t",
+                    "suffix": " 1988, p"
+                }
+            },
+            {
+                "id": "/target/aNuOHw8BAZ0/selector/css/PwViwPfFc6Q",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bfeDfaj7oys]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/159556432",
+        "type": "crm:E74_Group",
+        "label": "Houghton Mifflin Company.",
+        "description": "Houghton, Mifflin and Company"
     },
     "P2_has_type": [
         "oa:identifying"
