@@ -301,7 +301,7 @@
 					<lb facs="#facs_8_l_19" n="N001"/>This is not the only collection of such writers that could be
 					<lb facs="#facs_8_l_20" n="N002"/>made. It is limited in scope by the writers actually interviewed
 					<lb facs="#facs_8_l_21" n="N003"/>to date by The Paris Review. Thus, although there are writers
-					<lb facs="#facs_8_l_22" n="N004"/>from <placeName key="United States" ref="http://viaf.org/viaf/130168302" ana="webannotation:http://temp.lincsproject.ca/MFfoodCozh7">the United States</placeName>, <placeName key="Ireland." ref="http://viaf.org/viaf/158208597" ana="webannotation:http://temp.lincsproject.ca/KV8X4ri5OyP">Ireland</placeName>, England, Denmark, and South
+					<lb facs="#facs_8_l_22" n="N004"/>from <placeName key="United States" ref="http://viaf.org/viaf/130168302" ana="webannotation:http://temp.lincsproject.ca/MFfoodCozh7">the United States</placeName>, <placeName key="Ireland." ref="http://viaf.org/viaf/158208597" ana="webannotation:http://temp.lincsproject.ca/KV8X4ri5OyP">Ireland</placeName>, England, Denmark, and <placeName key="South Africa" ref="http://viaf.org/viaf/159069376" ana="webannotation:http://temp.lincsproject.ca/yd8mwMsWGYo">South</placeName>
 					<lb facs="#facs_8_l_23" n="N005"/>Africa, there are none here from, for instance, India or Australia
 					<lb facs="#facs_8_l_24" n="N006"/>or Canada or Latin America: no Alice Munro, no Anita Desai,
 					<lb facs="#facs_8_l_25" n="N007"/>no Isabel Allende. As this assemblage is unisexual, so is it uni-
@@ -701,6 +701,95 @@
         "type": "crm:E53_Place",
         "label": "Ireland.",
         "description": "Írland"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yd8mwMsWGYo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yd8mwMsWGYo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:28:04.996Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/XZAOifUwAzO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XZAOifUwAzO/selector/textPosition/10Cc8AHSYSM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14116,
+                "end": 14121,
+                "refinedBy": {
+                    "id": "/target/XZAOifUwAzO/selector/textQuote/SlcpfYaC38o",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "South",
+                    "prefix": " Thus, although there are writers\n\t\t\t\t\tfrom the United States, Ireland, England, Denmark, and",
+                    "suffix": "\t\t\t\t\tAfrica, there are none here from, for instance, India or Australia\n\t\t\t\t\tor Canada or Latin America: no Alice Munro, no Anita Desai,\n\t\t\t\t\tno Isabel Allende"
+                }
+            },
+            {
+                "id": "/target/XZAOifUwAzO/selector/css/BaOQSWXkqwh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yd8mwMsWGYo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/159069376",
+        "type": "crm:E53_Place",
+        "label": "South Africa",
+        "description": "Afrique du Sud"
     },
     "P2_has_type": [
         "oa:identifying"
