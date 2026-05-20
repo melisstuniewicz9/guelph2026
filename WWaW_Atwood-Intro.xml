@@ -71,7 +71,7 @@
 					<lb facs="#facs_3_l_8" n="N001"/>I was recently on a panel—that polygonal form of discourse so
 					<lb facs="#facs_3_l_9" n="N002"/>beloved of the democratic twentieth century—consisting entirely
 					<lb facs="#facs_3_l_10" n="N003"/>of women, including Jan Morris, who used to be James Morris,
-					<lb facs="#facs_3_l_11" n="N004"/>and Nayantara Sahgal of India. From the audience came the
+					<lb facs="#facs_3_l_11" n="N004"/>and Nayantara Sahgal of <placeName key="Índia." ref="http://viaf.org/viaf/135375457" ana="webannotation:http://temp.lincsproject.ca/kLr89Wug3A5">India</placeName>. From the audience came the
 					<lb facs="#facs_3_l_13" n="N005"/>question, "How do you feel about being on a panel of women?"
 					<lb facs="#facs_3_l_14" n="N006"/>We all prevaricated. Some of us protested that we had been on
 					<lb facs="#facs_3_l_17" n="N007"/>lots of panels that included men; others said that most panels
@@ -523,6 +523,95 @@
         "type": "crm:E21_Person",
         "label": "Milton, John, 1608-1674.",
         "description": "Milton, John, poète, 1608-1674"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kLr89Wug3A5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kLr89Wug3A5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:34:31.532Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/A6eIfzt04CT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/A6eIfzt04CT/selector/textPosition/SoHFJ9nw3Zh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2925,
+                "end": 2930,
+                "refinedBy": {
+                    "id": "/target/A6eIfzt04CT/selector/textQuote/O2oAG2ONHAL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "India",
+                    "prefix": ")\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tI was recently on a panel—that polygonal form of discourse so\n\t\t\t\t\tbeloved of the democratic twentieth century—consisting entirely\n\t\t\t\t\tof women, including Jan Morris, who used to be James Morris,\n\t\t\t\t\tand Nayantara Sahgal of",
+                    "suffix": " From the audience came the\n\t\t\t\t\tquestion, \"How do you feel about being on a panel of women?\"\n\t\t\t\t\tWe all prevaricated"
+                }
+            },
+            {
+                "id": "/target/A6eIfzt04CT/selector/css/N3VniPPhEdt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kLr89Wug3A5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/135375457",
+        "type": "crm:E53_Place",
+        "label": "Índia.",
+        "description": "Indien"
     },
     "P2_has_type": [
         "oa:identifying"
