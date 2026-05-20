@@ -1086,7 +1086,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852546#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/persName"
+			"rdf:value": "TEI/text/body/div/p[9]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1164,7 +1164,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852547#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[9]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1242,7 +1242,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852548#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[9]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1320,7 +1320,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852549#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[12]/persName"
+			"rdf:value": "TEI/text/body/div/p[10]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1398,7 +1398,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852549#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[16]/persName"
+			"rdf:value": "TEI/text/body/div/p[14]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1476,7 +1476,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852550#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[19]/persName"
+			"rdf:value": "TEI/text/body/div/p[17]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1554,7 +1554,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852550#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[21]/persName"
+			"rdf:value": "TEI/text/body/div/p[19]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1632,7 +1632,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852550#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[21]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[19]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1710,7 +1710,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852551#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[24]/persName"
+			"rdf:value": "TEI/text/body/div/p[22]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1788,7 +1788,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852551#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[24]/persName/persName"
+			"rdf:value": "TEI/text/body/div/p[22]/persName/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1866,7 +1866,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852551#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[32]/persName"
+			"rdf:value": "TEI/text/body/div/p[30]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1944,7 +1944,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520105852552#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[34]/persName"
+			"rdf:value": "TEI/text/body/div/p[32]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -2100,7 +2100,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?place_annotation_20260520105852552#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[31]/placeName"
+			"rdf:value": "TEI/text/body/div/p[29]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2178,7 +2178,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?place_annotation_20260520105852552#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[31]/placeName[2]"
+			"rdf:value": "TEI/text/body/div/p[29]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -2256,7 +2256,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?place_annotation_20260520105852553#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[31]/placeName[3]"
+			"rdf:value": "TEI/text/body/div/p[29]/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -2334,7 +2334,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?place_annotation_20260520105852553#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[31]/placeName[4]"
+			"rdf:value": "TEI/text/body/div/p[29]/placeName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -2490,7 +2490,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?organization_annotation_20260520105852554#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[15]/orgName"
+			"rdf:value": "TEI/text/body/div/p[13]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -2724,7 +2724,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?person_annotation_20260520110341087#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[31]/persName"
+			"rdf:value": "TEI/text/body/div/p[29]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -2747,8 +2747,8 @@
    <text>
       <body>
          <div>
-            <pb n="1"/>
-            <pb n="2"/>
+            <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_01.png" n="1"/>
+            <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_02.png" n="2"/>
             <p>
 					Introduction
 					This new volume of <orgName key="The Paris Review" ref="http://www.temp.lincsproject.ca/5df50720-d795-4e44-bd67-63e5bd13a57e_host_0" ana="webannotation:http://temp.lincsproject.ca/fLAy54snwHZ">the Paris Review’s</orgName> highly praised and
@@ -2778,7 +2778,7 @@
 					Dangerfield is an energy-packed rebel; for many women, he is
 					an immature and tiresome wife-beater. <title key="Milton, John, 1608-1674." ref="http://viaf.org/viaf/17226855" ana="webannotation:http://temp.lincsproject.ca/nlx6qn0BIeV">Paradise Lost</title> reads dif-
 				</p>
-            <pb n="3"/>
+            <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_03.png" n="3"/>
             <p>
 					ferently when viewed by the daughters of Eve, and with <persName key="Milton, John, 1608-1674." ref="http://viaf.org/viaf/17226855" ana="webannotation:http://temp.lincsproject.ca/80kfuzKFLrX">Milton</persName>'s
 					browbeaten secretarial daughters in mind; and so on down
@@ -2790,7 +2790,7 @@
 					style: are women really more subjective? do their novels really
 					end with questions? Especially in this age of semiotics, gender-
 					linked analysis may seek to explore attitudes towards language
-					itself. Is there a distinct female écriture? Does the mother-tongue
+					itself. Is there a distinct female <emph xml:lang="lat"><lang xml:lang="fr">écriture</lang>?</emph> Does the mother-tongue
 					really belong to mothers, or is it yet one more male-shaped in-
 					stitution bent, like foot-binding, on the deformation and hobbling
 					of women? I have had it suggested to me, in all seriousness, that
@@ -2824,13 +2824,13 @@
 					loyalties to it alone—an attitude which may puzzle, hurt or enrage
 					those whose political priorities cause them to view writing as a
 				</p>
-            <pb n="4"/>
+            <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_04.png" n="4"/>
             <p>
 					tool, a means towards an end, rather than as a Muse who will
 					desert you if you break trust. In the interview which begins this
 					collection. <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/TgUUJ0lzCEn">Dorothy Parker</persName> articles the dilemma:
 				</p>
-            <p>
+            <q>
 					I'm a feminist, and God knows I'm loyal to my sex, and
 					you must remember that from my very early days, when
 					this city was scarcely safe from buffaloes, I was in the struggle
@@ -2838,7 +2838,7 @@
 					the catcalls of men and when we chained ourselves to lamp
 					posts to try to get out equality—dear child, we didn't foresee
 					those female writers. (Pp. 114-115)
-				</p>
+				</q>
             <p>
 					Male writers may suffer grains on their single-minded dedi-
 					cation to their art for reasons of class or race or nationality, but
@@ -2853,21 +2853,20 @@
 					nature of the artist, but she was right also about the differences
 					in social situation these androgynous artists are certain to en-
 					counter. We may agree with <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340" ana="webannotation:http://temp.lincsproject.ca/g0BKuAPTw4j">Nadine Gordimer</persName> when she says,
-					"By and large, I don't think it matters a damn what sex a writer
-					is, so long as the work is that of a real writer" (p. 260), if what
+					"<quote>By and large, I don't think it matters a damn what sex a writer is, so long as the work is that of a real writer</quote>" (p. 260), if what
 					she means is that it shouldn't matter, in any true assesment of
 					talent of accomplishment, but unfortunately it often has mattered,
 					to other people. When <persName key="Oates, Joyce Carol, 1938-...." ref="http://viaf.org/viaf/108187427" ana="webannotation:http://temp.lincsproject.ca/ndZiZyHFQGY">Joyce Carol Oates</persName> is asked the "woman"
 					question. phrased in her case as "What are the advantages of being
 					a woman writer?", she makes a virtue of necessity:
 				</p>
-            <p>
+            <q>
 					Advantages! Too many to enumerate, probably. Since,
 					being a woman. I can't be taken altogether seriously by the
 					sort of male critics who rank writers 1, 2. 3 in the public
 					press. I am free, I suppose, to do as I like. (P. 382)
-				</p>
-            <pb n="5"/>
+				</q>
+            <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_05.png" n="5"/>
             <p>
                <persName key="Didion, Joan, 1934-2021." ref="http://viaf.org/viaf/100261335" ana="webannotation:http://temp.lincsproject.ca/YBxM4a44ViP">Joan Didion</persName> is asked the same question in its negative form—
 					"disadvantages" instead of "advantages"—and also focuses on so-
@@ -2911,7 +2910,7 @@
 					O'Brien calls "a double dose of masochism: the masochisim of
 					the woman and that of the artist" (p. 342), or, if approved of, as
 				</p>
-            <pb n="6"/>
+            <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_06.png" n="6"/>
             <p>
 					honorary men. Femininity and excellence, it seemed, were mu-
 					tually exclusive. Thus <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/QRH7qcQhL2l">Katherine Anne Porter</persName>:
@@ -2962,7 +2961,7 @@
             <p>
 					MCCARTHY: I think they become interested in décor. You
 				</p>
-            <pb n="7"/>
+            <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_07.png" n="7"/>
             <p>
                <persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/XeQQRbatHyL">
                   <persName data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="p7gS-53KWSQ" aria-expanded="false" key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/gZh5VlaBmFI">notice the change in . Her early work is
@@ -3011,7 +3010,7 @@
 					they have learned, the insistence on the importance, not of what
 					they themselves have done, but on what has been and can be
 				</p>
-            <pb n="8"/>
+            <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_08.png" n="8"/>
             <p>
 					done through the art itself. In no other art, except painting,
 					perhaps, is the relationship of creation to creator so complex and
@@ -3052,7 +3051,7 @@
 					territory to see what has been done and, especially, said before,
 					is, in the case of writing, part of the territory.
 				</p>
-            <pb n="9"/>
+            <pb facs="https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaWimages/wwaw_09.png" n="9"/>
             <p>
 					To write is a solitary and singular act; to do it superbly, as all
 					of these writers have done, is a blessing. Despite everything that
