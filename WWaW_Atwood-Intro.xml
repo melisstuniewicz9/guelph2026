@@ -19,7 +19,7 @@
 				<pb n="2"/>
 				<p>
 					<lb facs="#facs_2_l_1" n="N001"/>Introduction
-					<lb facs="#facs_2_l_2" n="N002"/>This new volume of the Paris Review’s highly praised and
+					<lb facs="#facs_2_l_2" n="N002"/>This new volume of <orgName key="The Paris Review" ref="http://www.temp.lincsproject.ca/5df50720-d795-4e44-bd67-63e5bd13a57e_host_0" ana="webannotation:http://temp.lincsproject.ca/fLAy54snwHZ">the Paris Review’s</orgName> highly praised and
 					<lb facs="#facs_2_l_3" n="N003"/>praiseworthy series of interviews with writers is a departure
 					<lb facs="#facs_2_l_4" n="N004"/>from the norm. Previous collections have mixed the genders; this
 					<lb facs="#facs_2_l_5" n="N005"/>one is unisexual. That the editors have chosen to bring together,
@@ -523,6 +523,95 @@
         "type": "crm:E21_Person",
         "label": "Milton, John, 1608-1674.",
         "description": "Milton, John, poète, 1608-1674"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fLAy54snwHZ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fLAy54snwHZ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:39:58.169Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/P9srxc9Yawc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/P9srxc9Yawc/selector/textPosition/2TSyXptIm2o",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 65,
+                "end": 83,
+                "refinedBy": {
+                    "id": "/target/P9srxc9Yawc/selector/textQuote/qp5mZNgnMnJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Paris Review’s",
+                    "prefix": "\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tIntroduction\n\t\t\t\t\tThis new volume of",
+                    "suffix": "highly praised and\n\t\t\t\t\tpraiseworthy series of interviews with writers is a departure\n\t\t\t\t\tfrom the norm"
+                }
+            },
+            {
+                "id": "/target/P9srxc9Yawc/selector/css/EOXpHAXKoAT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fLAy54snwHZ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.temp.lincsproject.ca/5df50720-d795-4e44-bd67-63e5bd13a57e_host_0",
+        "type": "crm:E74_Group",
+        "label": "The Paris Review",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
