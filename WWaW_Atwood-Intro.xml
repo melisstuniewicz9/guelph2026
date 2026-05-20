@@ -43,7 +43,7 @@
 					<lb facs="#facs_2_l_21" n="N007"/>romantic hero; for many men, he is a posturing oaf they'd like
 					<lb facs="#facs_2_l_22" n="N008"/>to punch in the nose. For many men, The Ginger Man's Sebastian
 					<lb facs="#facs_2_l_23" n="N009"/>Dangerfield is an energy-packed rebel; for many women, he is
-					<lb facs="#facs_2_l_24" n="N010"/>an immature and tiresome wife-beater. Paradise Lost reads dif-
+					<lb facs="#facs_2_l_24" n="N010"/>an immature and tiresome wife-beater. <title key="Milton, John, 1608-1674." ref="http://viaf.org/viaf/17226855" ana="webannotation:http://temp.lincsproject.ca/nlx6qn0BIeV">Paradise Lost</title> reads dif-
 				</p>
 				<pb n="3"/>
 				<p>
@@ -1146,6 +1146,95 @@
         "type": "crm:E21_Person",
         "label": "West, Rebecca, 1892-1983",
         "description": "West, Rebbeca, pseud."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nlx6qn0BIeV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nlx6qn0BIeV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:47:01.394Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/yPs0XY2b40W",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/yPs0XY2b40W/selector/textPosition/wVsfioiTcwz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1535,
+                "end": 1548,
+                "refinedBy": {
+                    "id": "/target/yPs0XY2b40W/selector/textQuote/aBIM2o0YOnm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paradise Lost",
+                    "prefix": "",
+                    "suffix": "reads dif-\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tferently when viewed by the daughters of Eve, and with Milton's\n\t\t\t\t\tbrowbeaten secretarial daughters in mind; and so on down\n\t\t\t\t\tthrough the canon"
+                }
+            },
+            {
+                "id": "/target/yPs0XY2b40W/selector/css/oVvGRUTY2B6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nlx6qn0BIeV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/17226855",
+        "type": "frbroo:F1",
+        "label": "Milton, John, 1608-1674.",
+        "description": "Milton, John, poète, 1608-1674"
     },
     "P2_has_type": [
         "oa:identifying"
