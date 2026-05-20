@@ -78,7 +78,7 @@
 					<lb facs="#facs_3_l_18" n="N008"/>were male, with a woman dotted here and there for decorative
 					<lb facs="#facs_3_l_19" n="N009"/>effect, like parsley. <persName key="Morris, Jan, 1926-2020." ref="http://viaf.org/viaf/100161330" ana="webannotation:http://temp.lincsproject.ca/nptKK3cciYk">Jan Morris</persName> said that she was in the process of
 					<lb facs="#facs_3_l_20" n="N010"/>transcending gender and was aiming at becoming a horse, to
-					<lb facs="#facs_3_l_21" n="N011"/>which Nayantara Sahgal replied that she hoped it was an <rs key="English (culture or style)" ref="http://vocab.getty.edu/aat/300111178" ana="webannotation:http://temp.lincsproject.ca/xJuAWlxQ26h">English</rs>
+					<lb facs="#facs_3_l_21" n="N011"/>which <persName key="Sahgal, Nayantara, 1927-...." ref="http://viaf.org/viaf/113514914" ana="webannotation:http://temp.lincsproject.ca/SFDktbJ9tXx">Nayantara Sahgal</persName> replied that she hoped it was an <rs key="English (culture or style)" ref="http://vocab.getty.edu/aat/300111178" ana="webannotation:http://temp.lincsproject.ca/xJuAWlxQ26h">English</rs>
 					<lb facs="#facs_3_l_22" n="N012"/>horse, since in some other, poorer countries, horses were not
 					<lb facs="#facs_3_l_23" n="N013"/>treated very well. Which underlined, for all of us, that there are
 					<lb facs="#facs_3_l_24" n="N014"/>categories other than male and female worth considering.
@@ -2036,6 +2036,95 @@
         "type": "crm:E21_Person",
         "label": "Morris, Jan, 1926-2020.",
         "description": "Morris, Jan, 1926-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SFDktbJ9tXx">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SFDktbJ9tXx",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:53:14.186Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/4JQJPKkmzIk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4JQJPKkmzIk/selector/textPosition/BL8goulJQE3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3375,
+                "end": 3391,
+                "refinedBy": {
+                    "id": "/target/4JQJPKkmzIk/selector/textQuote/gdoITFjDkDc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nayantara Sahgal",
+                    "prefix": " Jan Morris said that she was in the process of\n\t\t\t\t\ttranscending gender and was aiming at becoming a horse, to\n\t\t\t\t\twhich",
+                    "suffix": "replied that she hoped it was an English\n\t\t\t\t\thorse, since in some other, poorer countries, horses were not\n\t\t\t\t\ttreated very well"
+                }
+            },
+            {
+                "id": "/target/4JQJPKkmzIk/selector/css/QXluNFNpgbq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SFDktbJ9tXx]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/113514914",
+        "type": "crm:E21_Person",
+        "label": "Sahgal, Nayantara, 1927-....",
+        "description": "Sahgal, Nayantara"
     },
     "P2_has_type": [
         "oa:identifying"
