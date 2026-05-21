@@ -4506,7 +4506,7 @@
 					trust. In the interview which begins this collection. <persName
 						key="Dorothy Parker" ref="http://www.wikidata.org/entity/Q270707">Dorothy
 						Parker</persName> articulates the dilemma: </p>
-				<q> I'm a feminist, and God knows I'm loyal to my sex, and you must remember that
+				<q xml:id="par01"> I'm a feminist, and God knows I'm loyal to my sex, and you must remember that
 					from my very early days, when this city was scarcely safe from buffaloes, I was
 					in the struggle for equal rights for women. But when we paraded through the
 					catcalls of men and when we chained ourselves to lamp posts to try to get out
@@ -4523,7 +4523,7 @@
 					of the artist, but she was right also about the differences in social situation
 					these androgynous artists are certain to encounter. We may agree with <persName
 						key="Nadine Gordimer" ref="http://www.wikidata.org/entity/Q47619">Nadine
-						Gordimer</persName> when she says, <q>"By and large, I don't think it
+						Gordimer</persName> when she says, <q xml:id="gor01">"By and large, I don't think it
 						matters a damn what sex a writer is, so long as the work is that of a real
 						writer"</q> (p. 260), if what she means is that it shouldn't matter, in any
 					true assesment of talent of accomplishment, but unfortunately it often has
@@ -4531,7 +4531,7 @@
 						ref="http://www.wikidata.org/entity/Q217557">Joyce Carol Oates</persName> is
 					asked the "woman" question. phrased in her case as "What are the advantages of
 					being a woman writer?", she makes a virtue of necessity: </p>
-				<q> Advantages! Too many to enumerate, probably. Since, being a woman. I can't be
+				<q xml:id="oat01"> Advantages! Too many to enumerate, probably. Since, being a woman. I can't be
 					taken altogether seriously by the sort of male critics who rank writers 1, 2. 3
 					in the public press. I am free, I suppose, to do as I like. (P. 382) </q>
 				<p>
@@ -4539,7 +4539,7 @@
 						Didion</persName> is asked the same question in its negative form—
 					"disadvantages" instead of "advantages"—and also focuses on social differences,
 					social acceptance and role: </p>
-				<q> When I was starting to write—in the late fifties, early sixties—there was a kind
+				<q xml:id="did01"> When I was starting to write—in the late fifties, early sixties—there was a kind
 					of social tradition in which male novelists could operate. Hard drinkers, bad
 					livers. Wives, wars, big fish, <placeName key="Africa"
 						ref="http://www.wikidata.org/entity/Q15"
@@ -4580,13 +4580,13 @@
 					a male preserve has been the image of women writers as lightweight puffballs,
 					neurotic freaks suffering from what <persName key="Edna O'Brien"
 						ref="http://www.wikidata.org/entity/Q178225">Edna O'Brien</persName> calls
-						<q>"a double dose of masochism: the masochisim of the woman and that of the
+						<q xml:id="obr01">"a double dose of masochism: the masochisim of the woman and that of the
 						artist"</q> (p. 342), or, if approved of, as honorary men. Femininity and
 					excellence, it seemed, were mutually exclusive. Thus <persName
 						key="Katherine Anne Porter" ref="http://www.wikidata.org/entity/Q236958"
 						ana="webannotation:http://temp.lincsproject.ca/ZWDm0bsxKBV">Katherine Anne
 						Porter</persName>:</p>
-				<q>If there is such a thing as a man's mind and a woman's mind—and I'm sure there
+				<q xml:id="por01">If there is such a thing as a man's mind and a woman's mind—and I'm sure there
 					is—it isn't what most critics mean when they talk about the two. If I show
 					wisdom, they say I have a masculine mind. If I am silly and irrelevant—and
 					Edmund Wilson says I often am—why then they say I have a typically feminine
@@ -4599,7 +4599,7 @@
 					<persName key="Katherine Anne Porter"
 						ref="http://www.wikidata.org/entity/Q236958"
 						ana="webannotation:http://temp.lincsproject.ca/ZSrlmQlGdNP">Katherine Anne
-						Porter’s</persName> reply—<q>“I think that’s very true and very
+						Porter’s</persName> reply—<q xml:id="por02">“I think that’s very true and very
 					right"</q>—is by no means the only one possible. Some, such as <persName
 						key="Mary McCarthy" ref="http://www.wikidata.org/entity/Q268147">Mary
 						McCarthy</persName>, are clearly impatient with the question itself.
