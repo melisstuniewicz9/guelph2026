@@ -1,0 +1,27 @@
+{
+    "editionTitle": "Paris Review Again",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "//div[@type=\"essay\"]",
+    "documentContent": "",
+    "documentTitle": "",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaW_Atwood-Diane-2.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//div",
+                "label": "div"
+            }
+        ],
+        "toc": [
+            "ad172c1d0974252d1c9c75d8910cf69e88b250624025ca95160f440f02901914"
+        ]
+    }
+}
