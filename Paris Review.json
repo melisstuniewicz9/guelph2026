@@ -1,0 +1,47 @@
+{
+    "editionTitle": "Intro to Paris Review",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "//div[@type=\"essay\"]",
+    "documentContent": "",
+    "documentTitle": "head/title",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/refs/heads/main/WWaW_Atwood_Diane.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//persName",
+                "label": "Authors"
+            },
+            {
+                "xpath": "//persName[@key=\"Dorothy Parker\"]",
+                "label": "Dorothy Parker"
+            },
+            {
+                "xpath": "//persName[@key=\"Katherine Anne Porter\"]",
+                "label": "Katherine Anne Porter"
+            },
+            {
+                "xpath": "//persName[@key=\"Mary McCarthy\"]",
+                "label": "Mary McCarthy"
+            },
+            {
+                "xpath": "//placeName",
+                "label": "Place"
+            },
+            {
+                "xpath": "//div",
+                "label": "div"
+            }
+        ],
+        "toc": [
+            "5bace7c6aa0c3f99c2966e8c95672268c75772ad91dc41e67a0107d047392af2"
+        ]
+    }
+}
