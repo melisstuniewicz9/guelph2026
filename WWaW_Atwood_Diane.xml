@@ -43,9 +43,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520133918822",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520133918822",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T17:39:18.822Z",
+	"dcterms:modified": "2026-05-20T17:39:18.822Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -56,10 +57,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520133918822#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520133918822#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -70,7 +71,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520133918822#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520133918822#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[2]"
 		}
@@ -121,10 +122,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520110821119",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T15:08:21.119Z",
-	"dcterms:modified": "2026-05-20T15:08:21.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -135,10 +135,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520110821119#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -149,7 +149,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520110821119#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[3]"
 		}
@@ -200,10 +200,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520110821119",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T15:08:21.119Z",
-	"dcterms:modified": "2026-05-20T15:08:21.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -214,10 +213,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520110821119#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -228,7 +227,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520110821119#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[4]"
 		}
@@ -279,9 +278,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520110821119",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T15:08:21.119Z",
+	"dcterms:modified": "2026-05-20T15:08:21.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -292,10 +292,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520110821119#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -306,7 +306,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520110821119#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName"
 		}
@@ -357,9 +357,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124453201",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124453201",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T16:44:53.201Z",
+	"dcterms:modified": "2026-05-20T16:44:53.201Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -370,10 +371,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124453201#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124453201#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -384,7 +385,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124453201#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124453201#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName"
 		}
@@ -435,9 +436,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124542159",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124542159",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T16:45:42.159Z",
+	"dcterms:modified": "2026-05-20T16:45:42.159Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -448,10 +450,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124542159#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124542159#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -462,7 +464,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124542159#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124542159#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName[2]"
 		}
@@ -513,9 +515,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?organization_annotation_20260520110821122",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?organization_annotation_20260520110821122",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T15:08:21.122Z",
+	"dcterms:modified": "2026-05-20T15:08:21.122Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -526,10 +529,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?organization_annotation_20260520110821122#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?organization_annotation_20260520110821122#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -540,7 +543,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?organization_annotation_20260520110821122#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?organization_annotation_20260520110821122#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/orgName"
 		}
@@ -591,9 +594,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260520110821123",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?work_annotation_20260520110821123",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T15:08:21.123Z",
+	"dcterms:modified": "2026-05-20T15:08:21.123Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -604,10 +608,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260520110821123#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?work_annotation_20260520110821123#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -618,7 +622,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260520110821123#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?work_annotation_20260520110821123#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/title"
 		}
@@ -669,9 +673,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124208993",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124208993",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T16:42:08.993Z",
+	"dcterms:modified": "2026-05-20T16:42:08.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -682,10 +687,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124208993#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124208993#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -696,7 +701,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124208993#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124208993#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName"
 		}
@@ -747,9 +752,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124251060",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124251060",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T16:42:51.060Z",
+	"dcterms:modified": "2026-05-20T16:42:51.060Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -760,10 +766,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124251060#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124251060#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -774,7 +780,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124251060#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260520124251060#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName[3]"
 		}
@@ -825,10 +831,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417594",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417594",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.594Z",
-	"dcterms:modified": "2026-05-21T11:34:17.594Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -839,10 +844,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417594#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417594#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -853,7 +858,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417594#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417594#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[7]/persName"
 		}
@@ -904,10 +909,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.595Z",
-	"dcterms:modified": "2026-05-21T11:34:17.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -918,10 +922,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -932,7 +936,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/persName"
 		}
@@ -983,10 +987,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.595Z",
-	"dcterms:modified": "2026-05-21T11:34:17.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -997,10 +1000,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1011,7 +1014,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/persName[2]"
 		}
@@ -1062,10 +1065,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.595Z",
-	"dcterms:modified": "2026-05-21T11:34:17.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1076,10 +1078,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1090,7 +1092,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/persName[3]"
 		}
@@ -1141,10 +1143,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.595Z",
-	"dcterms:modified": "2026-05-21T11:34:17.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1155,10 +1156,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1169,7 +1170,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[10]/persName"
 		}
@@ -1220,10 +1221,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.596Z",
-	"dcterms:modified": "2026-05-21T11:34:17.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1234,10 +1234,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1248,7 +1248,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[11]/persName"
 		}
@@ -1299,10 +1299,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.596Z",
-	"dcterms:modified": "2026-05-21T11:34:17.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1313,10 +1312,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1327,7 +1326,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[11]/persName[2]"
 		}
@@ -1378,10 +1377,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.596Z",
-	"dcterms:modified": "2026-05-21T11:34:17.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1392,10 +1390,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1406,7 +1404,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[11]/persName[3]"
 		}
@@ -1457,10 +1455,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.596Z",
-	"dcterms:modified": "2026-05-21T11:34:17.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1471,10 +1468,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1485,7 +1482,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[12]/persName"
 		}
@@ -1536,10 +1533,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.597Z",
-	"dcterms:modified": "2026-05-21T11:34:17.597Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1550,10 +1546,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1564,7 +1560,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[13]/persName"
 		}
@@ -1615,10 +1611,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.597Z",
-	"dcterms:modified": "2026-05-21T11:34:17.597Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1629,10 +1624,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1643,7 +1638,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[13]/persName[2]"
 		}
@@ -1694,10 +1689,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.597Z",
-	"dcterms:modified": "2026-05-21T11:34:17.597Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1708,10 +1702,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1722,7 +1716,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[14]/persName"
 		}
@@ -1773,10 +1767,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.597Z",
-	"dcterms:modified": "2026-05-21T11:34:17.597Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1787,10 +1780,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1801,7 +1794,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[17]/persName"
 		}
@@ -1852,10 +1845,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1866,10 +1858,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1880,7 +1872,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[17]/persName[2]"
 		}
@@ -1931,10 +1923,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1945,10 +1936,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1959,7 +1950,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[19]/persName"
 		}
@@ -2010,10 +2001,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2024,10 +2014,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2038,7 +2028,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[19]/persName[2]"
 		}
@@ -2089,10 +2079,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2103,10 +2092,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2117,7 +2106,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[19]/persName[3]"
 		}
@@ -2168,10 +2157,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2182,10 +2170,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2196,7 +2184,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[19]/persName[4]"
 		}
@@ -2247,9 +2235,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417599",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417599",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.599Z",
+	"dcterms:modified": "2026-05-21T11:34:17.599Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2260,10 +2249,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417599#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417599#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2274,7 +2263,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417599#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521073417599#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[19]/persName[6]"
 		}
@@ -2325,10 +2314,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521073417599",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?place_annotation_20260521073417599",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.599Z",
-	"dcterms:modified": "2026-05-21T11:34:17.599Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2339,10 +2327,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521073417599#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?place_annotation_20260521073417599#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2353,7 +2341,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521073417599#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?place_annotation_20260521073417599#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[11]/placeName"
 		}
@@ -2404,10 +2392,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074010975",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:40:10.975Z",
-	"dcterms:modified": "2026-05-21T11:40:10.975Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2418,10 +2405,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074010975#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2432,7 +2419,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074010975#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName[4]"
 		}
@@ -2483,10 +2470,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074156779",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074156779",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:41:56.779Z",
-	"dcterms:modified": "2026-05-21T11:41:56.779Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2497,10 +2483,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074156779#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074156779#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2511,7 +2497,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074156779#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074156779#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName[5]"
 		}
@@ -2562,10 +2548,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074320490",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?place_annotation_20260521074320490",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:43:20.490Z",
-	"dcterms:modified": "2026-05-21T11:43:20.490Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2576,10 +2561,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074320490#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?place_annotation_20260521074320490#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2590,7 +2575,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074320490#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?place_annotation_20260521074320490#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[11]/placeName[2]"
 		}
@@ -2641,10 +2626,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074404347",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?place_annotation_20260521074404347",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:44:04.347Z",
-	"dcterms:modified": "2026-05-21T11:44:04.347Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2655,10 +2639,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074404347#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?place_annotation_20260521074404347#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2669,7 +2653,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074404347#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?place_annotation_20260521074404347#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[12]/placeName"
 		}
@@ -2720,10 +2704,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074427847",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074427847",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:44:27.847Z",
-	"dcterms:modified": "2026-05-21T11:44:27.847Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2734,10 +2717,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074427847#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074427847#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2748,7 +2731,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074427847#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074427847#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[17]/persName[3]"
 		}
@@ -2799,10 +2782,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074624472",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074624472",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:46:24.472Z",
-	"dcterms:modified": "2026-05-21T11:46:24.472Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2813,10 +2795,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074624472#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074624472#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2827,7 +2809,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074624472#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074624472#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[19]/persName[5]"
 		}
@@ -2878,10 +2860,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074645237",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074645237",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:46:45.237Z",
-	"dcterms:modified": "2026-05-21T11:46:45.237Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2892,10 +2873,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074645237#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074645237#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2906,7 +2887,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074645237#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074645237#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[22]/persName"
 		}
@@ -2957,10 +2938,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074719622",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074719622",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:47:19.622Z",
-	"dcterms:modified": "2026-05-21T11:47:19.622Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2971,10 +2951,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074719622#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074719622#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2985,7 +2965,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074719622#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074719622#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[23]/persName"
 		}
@@ -3036,10 +3016,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074734186",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074734186",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:47:34.186Z",
-	"dcterms:modified": "2026-05-21T11:47:34.186Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3050,10 +3029,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074734186#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074734186#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3064,7 +3043,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074734186#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074734186#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/persName"
 		}
@@ -3115,10 +3094,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074819576",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074819576",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:48:19.576Z",
-	"dcterms:modified": "2026-05-21T11:48:19.576Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3129,10 +3107,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074819576#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074819576#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3143,7 +3121,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074819576#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074819576#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/persName[2]"
 		}
@@ -3194,10 +3172,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074945459",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074945459",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:49:45.459Z",
-	"dcterms:modified": "2026-05-21T11:49:45.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3208,10 +3185,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074945459#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074945459#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3222,7 +3199,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074945459#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521074945459#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/persName[3]"
 		}
@@ -3273,10 +3250,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075006090",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:50:06.090Z",
-	"dcterms:modified": "2026-05-21T11:50:06.090Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3287,10 +3263,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075006090#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3301,7 +3277,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075006090#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[28]/persName[2]"
 		}
@@ -3352,10 +3328,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075151757",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075151757",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:51:51.757Z",
-	"dcterms:modified": "2026-05-21T11:51:51.757Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3366,10 +3341,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075151757#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075151757#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3380,7 +3355,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075151757#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075151757#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/persName[2]"
 		}
@@ -3431,9 +3406,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075213805",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075213805",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:52:13.805Z",
+	"dcterms:modified": "2026-05-21T11:52:13.805Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3444,10 +3420,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075213805#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075213805#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3458,7 +3434,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075213805#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075213805#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[28]/persName"
 		}
@@ -3509,10 +3485,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075418953",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075418953",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:54:18.953Z",
-	"dcterms:modified": "2026-05-21T11:54:18.953Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3523,10 +3498,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075418953#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075418953#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3537,7 +3512,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075418953#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075418953#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[33]/persName"
 		}
@@ -3588,10 +3563,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075554901",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075554901",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:55:54.901Z",
-	"dcterms:modified": "2026-05-21T11:55:54.901Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3602,10 +3576,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075554901#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075554901#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3616,7 +3590,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075554901#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075554901#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[32]/persName"
 		}
@@ -3667,10 +3641,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075614538",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075614538",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:56:14.538Z",
-	"dcterms:modified": "2026-05-21T11:56:14.538Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3681,10 +3654,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075614538#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075614538#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3695,7 +3668,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075614538#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075614538#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/persName"
 		}
@@ -3746,10 +3719,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075720553",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075720553",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:57:20.553Z",
-	"dcterms:modified": "2026-05-21T11:57:20.553Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3760,10 +3732,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075720553#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075720553#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3774,7 +3746,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075720553#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075720553#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[30]/persName"
 		}
@@ -3825,10 +3797,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075729997",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521090457985",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-05-21T11:57:29.997Z",
-	"dcterms:modified": "2026-05-21T13:04:57.985Z",
+	"dcterms:created": "2026-05-21T13:04:57.985Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3839,10 +3810,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075729997#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521090457985#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3853,7 +3824,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075729997#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521090457985#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/persName[6]"
 		}
@@ -3904,10 +3875,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?work_annotation_20260521075845723",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:58:45.723Z",
-	"dcterms:modified": "2026-05-21T11:58:45.723Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3918,10 +3888,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?work_annotation_20260521075845723#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3932,7 +3902,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?work_annotation_20260521075845723#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/title"
 		}
@@ -3983,10 +3953,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075907934",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075907934",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:59:07.934Z",
-	"dcterms:modified": "2026-05-21T11:59:07.934Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3997,10 +3966,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075907934#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075907934#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4011,7 +3980,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075907934#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521075907934#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/persName[3]"
 		}
@@ -4062,10 +4031,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080038905",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521080038905",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:00:38.905Z",
-	"dcterms:modified": "2026-05-21T12:00:38.905Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4076,10 +4044,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080038905#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521080038905#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4090,7 +4058,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080038905#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521080038905#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/persName[4]"
 		}
@@ -4141,10 +4109,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080114314",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521080114314",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:01:14.314Z",
-	"dcterms:modified": "2026-05-21T12:01:14.314Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4155,10 +4122,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080114314#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521080114314#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4169,7 +4136,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080114314#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521080114314#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/persName[5]"
 		}
@@ -4220,10 +4187,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082051879",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082051879",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:20:51.879Z",
-	"dcterms:modified": "2026-05-21T12:20:51.879Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4234,10 +4200,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082051879#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082051879#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4248,7 +4214,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082051879#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082051879#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/persName[7]"
 		}
@@ -4299,10 +4265,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082119567",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082119567",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:21:19.567Z",
-	"dcterms:modified": "2026-05-21T12:21:19.567Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4313,10 +4278,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082119567#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082119567#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4327,7 +4292,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082119567#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082119567#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/persName[8]"
 		}
@@ -4378,10 +4343,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082133885",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082133885",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:21:33.885Z",
-	"dcterms:modified": "2026-05-21T12:21:33.885Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4392,10 +4356,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082133885#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082133885#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4406,7 +4370,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082133885#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082133885#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/persName[9]"
 		}
@@ -4457,10 +4421,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082204585",
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082204585",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:22:04.585Z",
-	"dcterms:modified": "2026-05-21T12:22:04.585Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4471,10 +4434,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082204585#Target",
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082204585#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4485,7 +4448,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082204585#Selector",
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260521082204585#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/persName[10]"
 		}
@@ -4493,6 +4456,85 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://www.wikidata.org/wiki/Q10312711",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260522142342101",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-05-22T18:23:42.101Z",
+	"dcterms:modified": "2026-05-22T18:23:42.101Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/melisstuniewicz9",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Melissa Tuniewicz"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260522142342101#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/melisstuniewicz9/guelph2026/main/WWaW_Atwood_Diane.xml?person_annotation_20260522142342101#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q2499865",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -4536,7 +4578,7 @@
 					writing they do is different as well and cannot be read with the
 					same eyeglasses as those used for the reading of male writers. Nor
 					can writing by women be read in the same way by men as it can
-					by women, and vice versa. For many women, Heathcliff is a
+					by women, and vice versa. For many women, <persName key="Heathcliff" ref="http://www.wikidata.org/entity/Q2499865">Heathcliff</persName> is a
 					romantic hero; for many men, he is a posturing oaf they'd like
 					to punch in the nose. For many men, The Ginger Man's Sebastian
 					Dangerfield is an energy-packed rebel; for many women, he is
